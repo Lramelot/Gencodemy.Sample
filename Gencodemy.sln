@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gencodemy.Web", "Gencodemy.Web\Gencodemy.Web.csproj", "{DBD9E373-B139-479A-BBE4-109B0FD4DC91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD9E373-B139-479A-BBE4-109B0FD4DC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD9E373-B139-479A-BBE4-109B0FD4DC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD9E373-B139-479A-BBE4-109B0FD4DC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD9E373-B139-479A-BBE4-109B0FD4DC91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E930252D-E262-4F32-940A-FA300F5A98D7}
+	EndGlobalSection
+EndGlobal
